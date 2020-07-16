@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://bambangpri.my.id/"
 languageCode = "en-us"
 title = "Bambang-Pri"
 theme = "ezhil"
@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 # Your Google analytics code.
 googleAnalytics = "UA-123-45"
 # Your Disqus sortname.
-disqusShortname = "localhost"
+disqusShortname = "bambangpri"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
