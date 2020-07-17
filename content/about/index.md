@@ -1,7 +1,7 @@
 ---
 title: "Tentang Saya"
 date: 2020-07-17T20:24:28+08:00
-hidden: true
+hidden: false
 draft: false
 disqus: false
 ---
