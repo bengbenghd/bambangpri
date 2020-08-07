@@ -1,6 +1,6 @@
 ---
 title: "Dunia Senyap"
-date: 2020-08-07T12:00:00:00
+date: 2020-08-07T12:00:27+07:00
 draft: false
 discuss: false
 ---
