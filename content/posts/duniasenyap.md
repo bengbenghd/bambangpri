@@ -1,6 +1,8 @@
 ---
 title: "Dunia Senyap"
 date: 2020-08-07T12:00:27+07:00
+category: [celoteh, tulisan]
+tags: [tulisan]
 draft: false
 discuss: false
 ---
