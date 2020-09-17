@@ -2,7 +2,7 @@
 title: "Terbakar Harapan"
 date: 2020-09-17T18:58:49+07:00
 category: [celoteh, tulisan, puisi]
-tags: [puisi[
+tags: [puisi]
 draft: false
 discuss: false
 ---
